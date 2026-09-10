@@ -56,3 +56,21 @@
 
 
 
+// let p=10;
+// let q=20;
+// console.log(p+q);
+
+
+// let productprice=400;
+// let deliverycharge=50;
+// let gstandtaxe=40;
+// let total=productprice+deliverycharge+gstandtaxe
+// console.log("total charge =",total)
+
+
+// let wallet=700;
+// let spent=179;
+// let remainingamount=wallet-spent;
+// console.log("The remaining amount in wallet =",remainingamount)/
+
+
